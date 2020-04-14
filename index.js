@@ -1,5 +1,5 @@
-const Log = require('./Logger').Log;
+const Log = require('./Logger.js').Log;
 
-Log("Runner not found","session-1234","Project1",Date.now());  
-Log("Runner found", "session-1234", "Project2",Date.now());  
-Log("Runner found quickly", "session-1234", "Project3",Date.now()); 
+
+Log("Session-1234","Project1","Error","This has a msg from kunal");  
+Log("Session-1234","Project1","Error"); 
