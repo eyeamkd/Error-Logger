@@ -1,8 +1,8 @@
 {
-  "name": "error-logger",
+  "name": "log-your-err",
   "version": "1.0.0",
   "description": "Logger that stores errors in CSV format",
-  "main": "index.js",
+  "main": "Logger.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,12 +10,16 @@
     "logger",
     "log"
   ],
-  "author": "kunal",
+  "author": "Kunal Dubey",
   "license": "ISC",
   "dependencies": {
     "csv-writer": "^1.6.0"
   },
   "devDependencies": {
     "typescript": "^3.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eyeamkd/Error-Logger.git"
   }
 }
