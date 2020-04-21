@@ -1,6 +1,6 @@
 {
   "name": "log-your-err",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Logger that stores errors in CSV format",
   "main": "Logger.js",
   "scripts": {
