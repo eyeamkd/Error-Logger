@@ -20,7 +20,7 @@ Log("Your session id",
 
 all the variables mentioned above are optional,but remember the order when using them.  
 
-##working 
+## Working 
 
 ```
 const Log = require('./Logger.js').Log;
